@@ -1,0 +1,25 @@
+{
+	id: "15f13bc4-3032-42a3-9b05-d5d967692c53"
+	type: "party"
+	owner: "b06be733-c5d2-4bc2-9faf-4200083c91e3"
+	ranks: {
+		1e4df972-84e3-4906-81ae-dc22b618a3ed: "member"
+		b06be733-c5d2-4bc2-9faf-4200083c91e3: "owner"
+		1f5facbd-6dc3-4726-b2ec-225dcc93fe7f: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Tyrr64's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1762566999247L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Tyrr64\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b06be733-c5d2-4bc2-9faf-4200083c91e3", date: 1762566999251L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WltsuwarlD\"}]}" }
+		{ from: "b06be733-c5d2-4bc2-9faf-4200083c91e3", date: 1762566999251L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Stoned95\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1762568272000L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"WltsuwarlD\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1762568308394L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Stoned95\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

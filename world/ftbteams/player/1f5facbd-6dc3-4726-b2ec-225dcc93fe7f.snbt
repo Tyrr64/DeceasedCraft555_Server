@@ -1,0 +1,15 @@
+{
+	id: "1f5facbd-6dc3-4726-b2ec-225dcc93fe7f"
+	type: "player"
+	player_name: "Stoned95"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Stoned95"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
